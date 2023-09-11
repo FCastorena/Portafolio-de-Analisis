@@ -1,25 +1,26 @@
-# Demo repo for the TC3006 course
-This repository is a demo of what is expected to deliver on each repository requested for the TC3006 course at Tecnológico de Monterrey. For this demo, we consider the *implementation portfolio* deliverable, which spans across two modules (Statistics and ML) and two subcompetencies (SMA0101A and SMA0401A). Also, we assume that the repository is being provided at the end of first block, which means that the students already got some feedback from the professors. 
+# Repositorio del portafolio de análisis, TC3006
+Este repositorio contiene los documentos que se solicitaron para la entrega del portafolio de análisis de la materia TC3006 del Tecnológico de Monterrey, este repositorio se divide en dos modulos, estadística y ML, para evaluar las subcompetencias SMA0102, SMA0104 y SEG0403.
 
-## Structure of this repository
-The root folder of this repository contains the following files and folders: 
+## Estructura del repositorio
+El directorio raíz de este repositorio contiene los siguientes folders:
 
 * **Files**
-  * README.md: This file  
+  * README.md: Este documento 
 * **Folders**
-  * final: Folder with the information about the final deliverables, which include the changes that the reviewers asked for
-  * retro: Folder with the information about the draft version of each deliverable, which are provided for requesting feedback
+  * final: Carpetas con los entregables finales, que incluyen los cambios hechos a base de la retroalimentación dada en entregables pasados.
+  * retro: Carpeta con la información de los borradores de cada entregable, que se proporcionan para solicitar retroalimentación.
 
 ## Files for revision
-Following is a list of the files that must be checked for grading each subcompetency: 
+A continuación se muestra la lista de archivos a evaluar acorde a las subcompetecias mencionadas.
 
-* *Module 1: Statistics*
-	* *SMA0101A*
-		* **Evidence 01: Modeling** Please review file **final/M1_Statistics/Ev_01/dummyFile.txt**
+* *Módulo 1: Estadística*
+	* **Actividad 1. Algunas distribuciones de probabilidad** Revise el archivo **final/M1_Statistics/Actividad 1/Tarea1_A00827756.pdf**
+	* **Actividad 2. Explorando bases** Revise el archivo **final/M1_Statistics/Actividad 2/Tarea2_A00827756.pdf**
+	* **Actividad 3. Transformaciones** Revise el archivo **final/M1_Statistics/Actividad 3/Tarea3_A00827756.pdf**
+
 * *Module 2: Machine Learning*
-	* *SMA0401A*
-		* **Evidence 01: ML from scratch** Please review file **final/M2_ML/Ev_01/dummyFile.txt**
-		* **Evidence 02: ML from a framework** Please review file **final/M2_ML/Ev_02/dummyFolder/dummyFile.txt**
+	* **Evidencia 01: Análisis del contexto y la normatividad.** Revise el archivo **final/M2_ML/Ev_01/dummyFile.txt**
+	* **Evidence 02: ML from a framework** Please review file **final/M2_ML/Ev_02/dummyFolder/dummyFile.txt**
 
 
 ## Requested changes and replies
