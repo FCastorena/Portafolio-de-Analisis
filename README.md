@@ -20,7 +20,7 @@ A continuación se muestra la lista de archivos a evaluar acorde a las subcompet
 
 * *Module 2: Machine Learning*
 	* **Evidencia 01: Análisis del contexto y la normatividad.** Revise el archivo **final/M2_ML/Ev_01/dummyFile.txt**
-	* **Evidence 02: ML from a framework** Please review file **final/M2_ML/Ev_02/dummyFolder/dummyFile.txt**
+	* **Evidencia 02: Entregable_modulo2** Revisa el archivo **final/M2_ML/Ev_02/Entregable_modulo2.ipynb**
 
 
 ## Requested changes and replies
