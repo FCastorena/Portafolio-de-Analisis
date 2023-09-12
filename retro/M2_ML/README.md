@@ -1,7 +1,7 @@
-# Demo file for inner file
-In this file, you should describe the content of the folder. For example, in this case, we could state that:
+# Archivos de retroalimentación de ML, portafolio de Análisis
+En esta sección se dividen los archivos de los cuales se obtuvo retroalimentación para finalmente llegar al modelo refinado.
 
-This folder contains the files related to the deliverables from the Machine Learning module. The following files are to be graded: 
+* 
+	* **Entregable 1: Template para uso de framework (scikit-learn)** Revise el archivo **retro/M2_ML/Ev_01/Entregable1.ipynb**
+	* **Entregable 2: Parte 2. Análisis y reporte de desempeño del modelo sobre los datos.** Revise el archivo **retro/M2_ML/Ev_02/Entregable2.ipynb**
 
- * **Evidence 01: ML from scratch** Please review file **Ev_01/dummyFile.txt**
- * **Evidence 02: ML from a framework** Please review file **Ev_02/dummyFolder/dummyFile.txt**
