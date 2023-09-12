@@ -1,4 +1,5 @@
-# Demo file for the folder with the final version of each deliverable
-In this file, you should describe the content of the folder. For example, in this case, we could state that:
+# Entregables finales, módulos de ML y estadística
+En esta sección del repositorio se encuentran dos carpetas, cada una con los entregables finales correspondientes al portafolio de análisis por módulo, de ML, y de estadística. 
 
-This folder contains the final files that must be graded for each deliverable. The folder is organized into subfolders, one for each deliverable.
+- Carpeta M1_Statistics: Se encuentran los entregables finales de estadística. (3 archivos)
+- Carpeta M2_ML: Se encuentran los entregables finales de ML. (2 Archivos)
