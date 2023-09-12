@@ -17,8 +17,8 @@ A continuación se muestra la lista de archivos a evaluar acorde a las subcompet
 	* **Actividad 1. Algunas distribuciones de probabilidad** Revise el archivo **final/M1_Statistics/Actividad 1/Tarea1_A00827756.pdf**
 	* **Actividad 2. Explorando bases** Revise el archivo **final/M1_Statistics/Actividad 2/Tarea2_A00827756.pdf**
 	* **Actividad 3. Transformaciones** Revise el archivo **final/M1_Statistics/Actividad 3/Tarea3_A00827756.pdf**
-    * **Entregable final de El Precio de los Autos, formato Rmd** Revise el archivo **retro/M1_Statistics/Codigo de Analisis/Entregable_final_Blanquita.Rmd**
-    * **Entregable final de El Precio de los Autos, formato pdf** Revise el archivo **retro/M1_Statistics/Codigo de Analisis/Entregable_final_Blanquita.pdf**
+    * **Entregable final de El Precio de los Autos, formato Rmd** Revise el archivo **final/M1_Statistics/Codigo de Analisis/Entregable_final_Blanquita.Rmd**
+    * **Entregable final de El Precio de los Autos, formato pdf** Revise el archivo **final/M1_Statistics/Codigo de Analisis/Entregable_final_Blanquita.pdf**
 
 * *Module 2: Machine Learning*
 	* **Evidencia 01: Análisis del contexto y la normatividad.** Revise el archivo **final/M2_ML/Ev_01/analisis_contexto_normatividad_A00827756.pdf**
