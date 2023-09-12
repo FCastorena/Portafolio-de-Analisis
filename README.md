@@ -1,5 +1,5 @@
 # Repositorio del portafolio de análisis, TC3006
-Este repositorio contiene los documentos que se solicitaron para la entrega del portafolio de análisis de la materia TC3006 del Tecnológico de Monterrey, este repositorio se divide en dos modulos, estadística y ML, para evaluar las subcompetencias SMA0102, SMA0104 y SEG0403.
+Este repositorio contiene los documentos que se solicitaron para la entrega del portafolio de análisis de la materia TC3006 del Tecnológico de Monterrey, este repositorio se divide en dos secciones, entregables finales y de retroalimentación, a su vez, estos se dividen en modulos, estadística y ML, para evaluar las subcompetencias SMA0102, SMA0104 y SEG0403.
 
 ## Estructura del repositorio
 El directorio raíz de este repositorio contiene los siguientes folders:
