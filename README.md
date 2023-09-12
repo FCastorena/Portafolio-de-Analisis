@@ -4,35 +4,34 @@ Este repositorio contiene los documentos que se solicitaron para la entrega del 
 ## Estructura del repositorio
 El directorio raíz de este repositorio contiene los siguientes folders:
 
-* **Files**
-  * README.md: Este documento 
+* **Archivos**
+  * README.md: Este documento.
 * **Folders**
   * final: Carpetas con los entregables finales, que incluyen los cambios hechos a base de la retroalimentación dada en entregables pasados.
   * retro: Carpeta con la información de los borradores de cada entregable, que se proporcionan para solicitar retroalimentación.
 
-## Files for revision
+## Archivos finales
 A continuación se muestra la lista de archivos a evaluar acorde a las subcompetecias mencionadas.
 
-* *Módulo 1: Estadística*
+* *Módulo 1: Statistics*
 	* **Actividad 1. Algunas distribuciones de probabilidad** Revise el archivo **final/M1_Statistics/Actividad 1/Tarea1_A00827756.pdf**
 	* **Actividad 2. Explorando bases** Revise el archivo **final/M1_Statistics/Actividad 2/Tarea2_A00827756.pdf**
 	* **Actividad 3. Transformaciones** Revise el archivo **final/M1_Statistics/Actividad 3/Tarea3_A00827756.pdf**
 
 * *Module 2: Machine Learning*
-	* **Evidencia 01: Análisis del contexto y la normatividad.** Revise el archivo **final/M2_ML/Ev_01/dummyFile.txt**
-	* **Evidencia 02: Entregable_modulo2** Revisa el archivo **final/M2_ML/Ev_02/Entregable_modulo2.ipynb**
+	* **Evidencia 01: Análisis del contexto y la normatividad.** Revise el archivo **final/M2_ML/Ev_01/analisis_contexto_normatividad_A00827756.pdf**
+	* **Evidencia 02: Entregable_modulo2** Revise el archivo **final/M2_ML/Ev_02/Entregable2.ipynb**
 
 
-## Requested changes and replies
-Following is a list of the location of the issues that were raised by the reviewer during the feedback phase. Please refer to them for more details.
+## Archivos de retroalimentación
+A continuación se muestra la lista de archivos de los cuales se obtuvieron retroalimentación para dar paso a los entregables finales.
 
-* *Module 1: Statistics*
-	* *SMA0101A*
-		* **Evidence 01: Modeling: final/M1_Statistics/README.md**
+
+* *Módulo 1: Statistics*
+	* **Actividad 1. Algunas distribuciones de probabilidad** Revise el archivo **retro/M1_Statistics/Actividad 1/Tarea1_A00827756.pdf**
+	* **Actividad 2. Explorando bases** Revise el archivo **retro/M1_Statistics/Actividad 2/Tarea2_A00827756.pdf**
+	* **Actividad 3. Transformaciones** Revise el archivo **retro/M1_Statistics/Actividad 3/Tarea3_A00827756.pdf**
+
 * *Module 2: Machine Learning*
-	* *SMA0401A*
-		* **Evidence 01: ML from scratch: final/M2_ML/README.md**
-		* **Evidence 02: ML from a framework: final/M2_ML/README.md**
-		
-
-See you!
+	* **Evidencia 01: Template para uso de framework (scikit-learn)** Revise el archivo **retro/M2_ML/Ev_01/Entregable1.ipynb**
+	* **Evidencia 02: Parte 2. Análisis y reporte de desempeño del modelo sobre los datos.** Revise el archivo **retro/M2_ML/Ev_02/Entregable2.ipynb**
